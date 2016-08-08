@@ -1,0 +1,8 @@
+#ignore everything
+*
+
+#exclude .vhd files
+!*.vhd
+
+#exclude .gitignore
+!.gitignore
